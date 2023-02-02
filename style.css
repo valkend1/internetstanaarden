@@ -167,3 +167,8 @@ input{
 .message{
     height: 150px;
 }
+
+.submit{
+    width: 150px;
+    background-color: rgba(102, 204, 255, 0.527);
+}
